@@ -118,12 +118,12 @@ Major security and usability upgrades:
 | `OTPList / OTP_Generator` | Generate and manage one-time passwords |
 
 ### UML & Flow Diagrams
-- 📐 [UML Diagram (Miro)](https://miro.app/board/uXjVLXYd1CM=)
-- 🔄 [Application Flow Diagram (Google Drive)](https://drive.google.com/file/d/1gLhN4WF_CvqZZOGD3xIURJZKMKYa9Ibt/view)
+- [UML Diagram (Miro)](https://miro.app/board/uXjVLXYd1CM=)
+- [Application Flow Diagram (Google Drive)](https://drive.google.com/file/d/1gLhN4WF_CvqZZOGD3xIURJZKMKYa9Ibt/view)
 
 ---
 
-## 🧪 JUnit Testing
+## JUnit Testing
 
 All non-UI components have automated test coverage using JUnit.
 
@@ -141,7 +141,7 @@ All non-UI components have automated test coverage using JUnit.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
