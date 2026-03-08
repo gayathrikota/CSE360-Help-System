@@ -1,4 +1,4 @@
-# 🎓 Adaptive Learning Support Platform (ALSP)
+# Adaptive Learning Support Platform (ALSP)
 ### Java · JavaFX · Role-Based Access Control · Encryption · JUnit | ASU CSE 360
 
 > **Objective:** A secure, role-based help system built for ASU's CSE 360 course, providing personalized assistance to Students, Instructors, and Admins through encrypted content, special access groups, and intelligent article management.
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The ALSP is a desktop help system designed to support students, instructors, and admins in the CSE 360 course at ASU. It provides **customized, role-based assistance** so that students receive guidance suited to their skill level and specific needs — enhancing accessibility in a diverse learning environment.
 
@@ -26,7 +26,7 @@ The system was built across **4 development phases**, each adding new capabiliti
 
 ## 🗂️ Development Phases
 
-### ✅ Phase 1 — Secure Identity Management & Role-Based Access Control
+### Phase 1 — Secure Identity Management & Role-Based Access Control
 
 Established the core foundation of the system:
 
@@ -44,7 +44,7 @@ Established the core foundation of the system:
 
 ---
 
-### ✅ Phase 2 — Data Management & Content Organization
+### Phase 2 — Data Management & Content Organization
 
 Built on Phase 1 to add article management and content organization:
 
@@ -59,7 +59,7 @@ Built on Phase 1 to add article management and content organization:
 
 ---
 
-### ✅ Phase 3 — Encryption, Special Access Groups & Enhanced Interfaces
+### Phase 3 — Encryption, Special Access Groups & Enhanced Interfaces
 
 Major security and usability upgrades:
 
@@ -76,7 +76,7 @@ Major security and usability upgrades:
 
 ---
 
-### ✅ Phase 4 — Final Review & Verification
+### Phase 4 — Final Review & Verification
 
 > Phase 4 focused on ensuring all requirements and previous grader feedback were fully implemented. Since the team received **no feedback from graders** and earned **full scores on all previous phases**, no changes were required.
 
